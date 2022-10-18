@@ -1,4 +1,5 @@
 #include <main.h>
+
 /**
 * print_alphabelt - print all alphabelt in lowercase
 */
