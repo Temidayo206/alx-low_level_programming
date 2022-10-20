@@ -7,7 +7,7 @@
  * Desc: Header contains prototype for all functions used in 0x04. C - More functions, more nested loops
  */
 
-int _putchar(char c);
+int _isupper(int c);
 int _isdigit(int c);
 
 #endif
