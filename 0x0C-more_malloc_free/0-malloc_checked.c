@@ -27,11 +27,11 @@ void *malloc_checked(unsigned int b)
  */
 void *malloc_checked(unsigned int b)
 {
-void *x;
+	void *x;
 
-x = malloc(b);
-if (x == NULL)
-{
+	x = malloc(b);
+	if (x == NULL)
+	{
 	exit(98);
-}
+	}
 }
